@@ -1,0 +1,24 @@
+html,
+body {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+#gridentry {
+    display: flex;
+    justify-content: center;
+}
+
+.gridsquare {
+    border: 1px solid black;
+    /* height: 100px;
+    width: 100px; */
+}
+
+button {
+    margin: 10px;
+}
